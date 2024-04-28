@@ -1,0 +1,32 @@
+*{
+    background-color:rgb(44, 44, 44);
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.title1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.button{
+    display: block;
+    margin: 0 auto;
+}
+.btn{
+    width: 15%;
+    height: 5vh;
+    color: white;
+    border-radius: 10px;  
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-bottom: none;
+}
+.button:hover{
+    background-color: green;
+
+}
+
+.numeroEjercicio{
+    color: whitesmoke;
+    text-align: center;
+}
